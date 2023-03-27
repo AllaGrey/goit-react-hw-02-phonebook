@@ -1,6 +1,6 @@
 import { FormContainer, Label, Button, Title } from './ContactForm.styled';
 import { Field } from './ContactForm.styled';
-import { Formik, Form, Field as FormikField } from 'formik';
+import { Formik, Form } from 'formik';
 import { nanoid } from 'nanoid';
 import PropTypes from 'prop-types';
 
