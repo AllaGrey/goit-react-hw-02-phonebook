@@ -1,11 +1,4 @@
-import {
-  FormContainer,
-  StyledForm,
-  Label,
-  Input,
-  Button,
-  Title,
-} from './ContactForm.styled';
+import { FormContainer, Label, Button, Title } from './ContactForm.styled';
 import { Field } from './ContactForm.styled';
 import { Formik, Form, Field as FormikField } from 'formik';
 import { nanoid } from 'nanoid';
