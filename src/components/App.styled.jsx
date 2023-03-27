@@ -15,4 +15,6 @@ export const Title = styled.h2``;
 export const ContactList = styled.ul`
   display: flex;
   flex-wrap: wrap;
+  padding: 0;
+  justify-content: space-around;
 `;
